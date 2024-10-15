@@ -1,4 +1,4 @@
-# WACAM
+# WACAM - Wheelchair Accessible Camera Attachment
 ## Definition
 WACAM | Description
 --- | ---

@@ -4,6 +4,7 @@ WACAM | Description
 --- | ---
 W | Wheelchair
 A | Accessible
-CAM | Camera
+CA | Camera
+M | Mount
 
 *Made as part of the GNG2101 class at uOttawa*
